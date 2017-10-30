@@ -1,0 +1,4 @@
+{
+	"cmd": ["node","$file"],
+	"file_regex":"*.js"
+}

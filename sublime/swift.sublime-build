@@ -1,0 +1,5 @@
+{
+	"cmd": ["swift","$file"],
+
+	"file_regex":"*.swift"
+}

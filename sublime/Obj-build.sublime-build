@@ -1,0 +1,6 @@
+{
+	"cmd": ["/Users/username/scripts/objc-build.sh", "$file", "$file_path/$file_base_name"],
+	"file_regex": "*.m",
+	"working_dir": "${project_path:${folder}}",
+	"path":"/usr/bin:/usr/local/bin"	
+}
